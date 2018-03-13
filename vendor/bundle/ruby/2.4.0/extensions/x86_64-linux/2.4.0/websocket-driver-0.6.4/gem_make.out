@@ -1,0 +1,15 @@
+current directory: /home/mangala/Documents/calendar_bookings-master/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+/home/mangala/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20180301-18536-7l1o29.rb extconf.rb
+creating Makefile
+
+current directory: /home/mangala/Documents/calendar_bookings-master/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/mangala/Documents/calendar_bookings-master/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/mangala/Documents/calendar_bookings-master/vendor/bundle/ruby/2.4.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20180301-18536-1eycyjc

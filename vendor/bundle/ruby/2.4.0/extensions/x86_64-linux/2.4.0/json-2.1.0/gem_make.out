@@ -1,0 +1,13 @@
+current directory: /home/mangala/Documents/calendar_bookings-master/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+/home/mangala/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20180312-17578-9f58un.rb extconf.rb
+creating Makefile
+
+current directory: /home/mangala/Documents/calendar_bookings-master/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/mangala/Documents/calendar_bookings-master/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/mangala/Documents/calendar_bookings-master/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" install
